@@ -1,12 +1,12 @@
 {
-  "name": "authority-vach-ngan-com",
+  "name": "authority-skyhome-vn",
   "version": "2026.1.0",
-  "description": "Chuyên Bàn thờ Gỗ Gụ Lào Sơn Vũ. Website: https://vach-ngan.com",
+  "description": "Chuyên Bàn thờ Gỗ Gụ Lào Sơn Vũ. Website: https://skyhome.vn",
   "author": "Son Vu Canh Nau",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sonvu989/authority-vach-ngan-com.git"
+    "url": "https://github.com/sonvu989/authority-skyhome-vn.git"
   },
   "keywords": ["Bàn thờ", "Vách ngăn CNC", "Canh Nậu", "Sơn Vũ"],
-  "homepage": "https://vach-ngan.com"
+  "homepage": "https://skyhome.vn"
 }
