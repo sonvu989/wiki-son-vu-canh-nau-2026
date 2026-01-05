@@ -1,12 +1,12 @@
 {
-  "name": "authority-denphongngu-net",
+  "name": "authority-nhabephiendai-net",
   "version": "2026.1.0",
-  "description": "Chuyên Bàn thờ Gỗ Gụ Lào Sơn Vũ. Website: https://denphongngu.net",
+  "description": "Chuyên Bàn thờ Gỗ Gụ Lào Sơn Vũ. Website: https://nhabephiendai.net",
   "author": "Son Vu Canh Nau",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sonvu989/authority-denphongngu-net.git"
+    "url": "https://github.com/sonvu989/authority-nhabephiendai-net.git"
   },
   "keywords": ["Bàn thờ", "Vách ngăn CNC", "Canh Nậu", "Sơn Vũ"],
-  "homepage": "https://denphongngu.net"
+  "homepage": "https://nhabephiendai.net"
 }
